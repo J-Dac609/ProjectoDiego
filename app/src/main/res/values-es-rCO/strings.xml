@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto de diego</string>
+    <string name="welcome">Bienvenido a mi primera app</string>
+    <string name="ImagenTensorflow">String</string>
+</resources>
